@@ -1,3 +1,5 @@
+[![npm version](https://badge.fury.io/js/hardshell.svg)](https://badge.fury.io/js/hardshell)
+
 # hardshell
 
 Common utilities and eyecandy things for CLI applications.
