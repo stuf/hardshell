@@ -1,7 +1,7 @@
 {
   "name": "hardshell",
   "version": "1.0.1",
-  "description": "",
+  "description": "Common utilities and eyecandy things for CLI applications",
   "main": "lib/index.js",
   "directories": {
     "lib": "lib"
