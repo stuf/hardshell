@@ -1,5 +1,5 @@
-[![npm version](https://badge.fury.io/js/hardshell.svg)](https://badge.fury.io/js/hardshell)
-
+[![npm version](https://badge.fury.io/js/hardshell.svg)](https://www.npmjs.com/package/hardshell)
+[![Travis status](https://img.shields.io/travis/stuf/hardshell.svg)](https://travis-ci.org/stuf/hardshell)
 # hardshell
 
 Common utilities and eyecandy things for CLI applications.
